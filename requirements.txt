@@ -1,0 +1,5 @@
+chemlib
+pHcalc
+numpy
+scipy
+matplotlib
